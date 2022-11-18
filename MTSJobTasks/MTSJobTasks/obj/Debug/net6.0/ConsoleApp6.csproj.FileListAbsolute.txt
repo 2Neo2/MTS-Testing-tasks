@@ -1,0 +1,15 @@
+/Users/ivandoronin/RiderProjects/ConsoleApp6/ConsoleApp6/obj/Debug/net6.0/ConsoleApp6.csproj.AssemblyReference.cache
+/Users/ivandoronin/RiderProjects/ConsoleApp6/ConsoleApp6/obj/Debug/net6.0/ConsoleApp6.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ivandoronin/RiderProjects/ConsoleApp6/ConsoleApp6/obj/Debug/net6.0/ConsoleApp6.AssemblyInfoInputs.cache
+/Users/ivandoronin/RiderProjects/ConsoleApp6/ConsoleApp6/obj/Debug/net6.0/ConsoleApp6.AssemblyInfo.cs
+/Users/ivandoronin/RiderProjects/ConsoleApp6/ConsoleApp6/obj/Debug/net6.0/ConsoleApp6.csproj.CoreCompileInputs.cache
+/Users/ivandoronin/RiderProjects/ConsoleApp6/ConsoleApp6/bin/Debug/net6.0/ConsoleApp6
+/Users/ivandoronin/RiderProjects/ConsoleApp6/ConsoleApp6/bin/Debug/net6.0/ConsoleApp6.deps.json
+/Users/ivandoronin/RiderProjects/ConsoleApp6/ConsoleApp6/bin/Debug/net6.0/ConsoleApp6.runtimeconfig.json
+/Users/ivandoronin/RiderProjects/ConsoleApp6/ConsoleApp6/bin/Debug/net6.0/ConsoleApp6.dll
+/Users/ivandoronin/RiderProjects/ConsoleApp6/ConsoleApp6/bin/Debug/net6.0/ConsoleApp6.pdb
+/Users/ivandoronin/RiderProjects/ConsoleApp6/ConsoleApp6/obj/Debug/net6.0/ConsoleApp6.dll
+/Users/ivandoronin/RiderProjects/ConsoleApp6/ConsoleApp6/obj/Debug/net6.0/refint/ConsoleApp6.dll
+/Users/ivandoronin/RiderProjects/ConsoleApp6/ConsoleApp6/obj/Debug/net6.0/ConsoleApp6.pdb
+/Users/ivandoronin/RiderProjects/ConsoleApp6/ConsoleApp6/obj/Debug/net6.0/ConsoleApp6.genruntimeconfig.cache
+/Users/ivandoronin/RiderProjects/ConsoleApp6/ConsoleApp6/obj/Debug/net6.0/ref/ConsoleApp6.dll

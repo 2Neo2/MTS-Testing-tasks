@@ -1,0 +1,15 @@
+/Users/ivandoronin/RiderProjects/MTSJobTasks/MTSJobTasks/bin/Debug/net6.0/MTSJobTasks
+/Users/ivandoronin/RiderProjects/MTSJobTasks/MTSJobTasks/bin/Debug/net6.0/MTSJobTasks.deps.json
+/Users/ivandoronin/RiderProjects/MTSJobTasks/MTSJobTasks/bin/Debug/net6.0/MTSJobTasks.runtimeconfig.json
+/Users/ivandoronin/RiderProjects/MTSJobTasks/MTSJobTasks/bin/Debug/net6.0/MTSJobTasks.dll
+/Users/ivandoronin/RiderProjects/MTSJobTasks/MTSJobTasks/bin/Debug/net6.0/MTSJobTasks.pdb
+/Users/ivandoronin/RiderProjects/MTSJobTasks/MTSJobTasks/obj/Debug/net6.0/MTSJobTasks.csproj.AssemblyReference.cache
+/Users/ivandoronin/RiderProjects/MTSJobTasks/MTSJobTasks/obj/Debug/net6.0/MTSJobTasks.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ivandoronin/RiderProjects/MTSJobTasks/MTSJobTasks/obj/Debug/net6.0/MTSJobTasks.AssemblyInfoInputs.cache
+/Users/ivandoronin/RiderProjects/MTSJobTasks/MTSJobTasks/obj/Debug/net6.0/MTSJobTasks.AssemblyInfo.cs
+/Users/ivandoronin/RiderProjects/MTSJobTasks/MTSJobTasks/obj/Debug/net6.0/MTSJobTasks.csproj.CoreCompileInputs.cache
+/Users/ivandoronin/RiderProjects/MTSJobTasks/MTSJobTasks/obj/Debug/net6.0/MTSJobTasks.dll
+/Users/ivandoronin/RiderProjects/MTSJobTasks/MTSJobTasks/obj/Debug/net6.0/refint/MTSJobTasks.dll
+/Users/ivandoronin/RiderProjects/MTSJobTasks/MTSJobTasks/obj/Debug/net6.0/MTSJobTasks.pdb
+/Users/ivandoronin/RiderProjects/MTSJobTasks/MTSJobTasks/obj/Debug/net6.0/MTSJobTasks.genruntimeconfig.cache
+/Users/ivandoronin/RiderProjects/MTSJobTasks/MTSJobTasks/obj/Debug/net6.0/ref/MTSJobTasks.dll
